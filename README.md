@@ -4,7 +4,6 @@
 This is the source code for the personal blog website of **THD von Alexander**. The website is designed to share blog posts, stories, personal experiences, as well as contact and about information.
 
 ## Project Structure
-```plaintext
 von-blog/
 │
 ├── index.html         : Homepage  
