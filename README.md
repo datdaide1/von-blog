@@ -4,6 +4,7 @@
 This is the source code for the personal blog website of **THD von Alexander**. The website is designed to share blog posts, stories, personal experiences, as well as contact and about information.
 
 ## Project Structure
+```plaintext
 von-blog/
 │
 ├── index.html         : Homepage  
@@ -23,7 +24,7 @@ von-blog/
 │   └── contact.js      : Contact form logic  
 │
 └── README.txt          : Project description and usage
-
+```
 ## Main Features
 - Responsive design for both desktop and mobile.
 - Display and filter blog posts and stories.
