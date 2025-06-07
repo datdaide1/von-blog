@@ -8,8 +8,8 @@ This is the source code for my personal blog – called **THD von Alexander**. T
 von-blog/
 │
 ├── index.html         : Homepage  
-├── blog.html          : Blog post listing page  
-├── blog-post.html     : Blog post detail page  
+├── blog.html          : Articles post listing page  
+├── blog-post.html     : Articles post detail page  
 ├── stories.html       : Stories listing page  
 ├── story.html         : Story detail page  
 ├── about.html         : About me page  
@@ -20,7 +20,7 @@ von-blog/
 │
 ├── scripts/
 │   ├── main.js        : Shared JS (navigation, scroll, featured content, etc.)  
-│   ├── blog.js        : Blog and story data management  
+│   ├── blog.js        : Articles and story data management  
 │   └── contact.js     : Contact form logic  
 │
 └── README.txt         : Project description and usage

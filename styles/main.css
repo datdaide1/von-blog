@@ -555,7 +555,7 @@ body {
 
 .post__content,
 .story__content {
-  max-width: 65ch;
+  max-width: 75ch;
   margin: 0 auto var(--spacing-2xl) auto;
 }
 
@@ -1136,7 +1136,7 @@ body {
 .post-layout,
 .story-layout {
     display: flex;
-    gap: 2rem;
+    gap: 1rem;
 }
 
 /* TOC styles */
@@ -1157,7 +1157,7 @@ body {
     transition: background 0.2s, color 0.2s, opacity 0.2s, transform 0.2s;
     max-height: 60vh;
     overflow-y: auto;
-    margin-right: 1rem;
+    margin-right: 0.5rem;
     display: block;
     opacity: 1;
     pointer-events: auto;

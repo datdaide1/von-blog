@@ -9,7 +9,7 @@
             title: 'Khóa luận tốt nghiệp - Ý tưởng',
             excerpt: 'Ý tưởng cho KLTN nếu được làm :))))',
             content: `
-                <h2>Girlfriend simulator chatbot - a great alternative to dating apps.</h2>
+                <h1>Girlfriend simulator chatbot - a great alternative to dating apps.</h1>
                 <p>Một chatbot giả lập bạn gái dành cho các chàng trai cô đơn cần được an ủi và lắng nghe.</p>
                 <ul>
                     <li>Hỗ trợ tâm lý</li>
@@ -264,7 +264,7 @@
                 }
             ],
             category: 'tutorial',
-            date: '2025-06-09',
+            date: '2025-06-07',
             author: 'THD von Alexander'
         }
 
@@ -275,47 +275,86 @@
     const STORIES = [
         {
             id: '1',
-            title: 'Journey of a Lodger Chapter 1',
-            excerpt: 'Chapter 1: The Beginning, Leaving a Comfortable Borrowed Life Behind, I Sought Freedom in a Three-Step Room',
+            title: 'Journey of a Lodger',
+            excerpt: 'Chapter 1: The Beginning. Leaving behind a really nice borrowed place to chase freedom in a room just three steps wide',
             content: `
-                <h2>Chapter 1: The Beginning, Leaving a Comfortable Borrowed Life Behind, I Sought Freedom in a Three-Step Room</h2>
-                <p>Tôi, người đến từ HP city, đã phải lang thang khắp các con phố quận Thanh Xuân để tìm một chốn dung thân. Thế nhưng, thật đáng buồn nhưng tôi đéo tìm được chỗ nào trú thân trong khi ngày nhập học đã đến gần.</p>
+                <h1>Chapter 1: The Beginning - Leaving behind a really nice borrowed place to chase freedom in a room just three steps wide</h1>
+                <p>Tôi, người đến từ HP city, đã phải lang thang khắp các con phố quận Thanh Xuân để tìm một chốn dung thân. Thế nhưng, thật đáng buồn vì tôi đéo tìm được chỗ nào trú thân trong khi ngày nhập học đang đến gần.</p>
+                <p>Tạm thời thế đã :))) chưa nghĩ ra :)))) </p>
             `,
-            date: '2025-07-06',
+            date: '2025-06-07',
             author: 'THD von Alexander'
         },
         {
             id: '2',
-            title: 'Chapter 2',
-            excerpt: 'Chapter 2: Ở với em Dương, Ý ơi đừng bỏ anh :)))',
+            title: 'Cuộc sống đại học với các bộn làn',
+            excerpt: 'Đoàn kết, đoàn kết, đại đoàn kết! Thành công, thành công, đại thành công!',
             content: `
-                <h2>Chapter 2: Ở với em Dương, Ý ơi đừng bỏ anh :)))</h2>
-                <p>Để thế đã, chưa nghĩ ra gì để viết</p>
+                <h1>Cuộc sống đại học với các bộn làn</h1>
+                <p>Tạch CNXHKH rồi :))</p>
+                <p>Đm cuộc đời :v</p>
             `,
-            date: '2025-07-06',
+            date: '2025-06-07',
             author: 'THD von Alexander'
         },
         {
             id: '3',
-            title: 'Chapter 3',
-            excerpt: 'Chapter 3: Tưởng cuộc sống đã thay đổi nhưng tôi lại vướng phải một chướng ngại. Vẫn không tìm được lối thoát',
+            title: 'Cần hay không việc phụ thuộc vào xã hội để tồn tại?',
+            excerpt: 'Thi thoảng tôi xồn làm vl :)))',
             content: `
-                <h2>Chapter 3: Tưởng cuộc sống đã thay đổi nhưng tôi lại vướng phải một chướng ngại. Vẫn không tìm được lối thoát</h2>
-                <p>Đm Thái lọ :))))</p>
+                <h1>Cần hay không việc phụ thuộc vào xã hội để tồn tại?</h1>
+                <p>
+                            Động vật, về cơ bản là sống bầy đàn. Đơn giản nhất, cần ít nhất 2 cá thể để duy trì nòi giống. Hoặc tùy thuộc vào độ khó bắt của con mồi mà cần săn theo nhóm. Đương nhiên, cũng có một số loài chỉ đi tìm bạn tình khi đến mùa, 
+                            hay đủ mạnh để săn một mình, hoặc đơn giản là nó ăn cỏ. Vậy có một câu hỏi là: “nếu loài động vật trên không giao phối thì các con hoàn toàn sống tách biệt với nhau trong bầy à?”. Câu trả lời là “đéo”, bản năng động vật buộc chúng phải tìm thấy nhau, 
+                            mục đích là duy trì nòi giống. Nếu không làm vậy thì chúng không thể tồn tại đến bây giờ để con người mổ xẻ ra nghiên cứu được rồi. Nên nói tóm lại, việc chúng liên kết với nhau nằm ở “bản năng tồn tại”.
+                        </p>
+                        <p>
+                            Xét sang con người thì, đúng là ngay cả khi tiền tệ chưa ra đời, cuộc sống vẫn chỉ  đang ở mức làm gì ăn nấy thì con người đã nghĩ ra việc trao đổi đồ cho nhau. Trao đi cái mình thừa hay làm ra và đổi lấy cái mình cần. Khi tiền tệ ra đời thì nó trở thành vật trung gian. 
+                            Nên về cơ bản, cho dù có một mối liên kết giữa người với người thì nó cũng chỉ là mối quan hệ trao đổi hàng hóa, một mối quan hệ win-win. 
+                        </p>
+                        <p>
+                            Nên về cơ bản thì, những mối quan hệ ở mức độ ”trao đổi hàng hóa” và chưa vượt khỏi cái “ngưỡng” đấy mục đích là để con người tối ưu cuộc sống của mình, 
+                            bằng cách đáp ứng những nhu cầu cần thiết. Tóm lại, việc tiếp xúc xã hội ở mức vừa đủ để đáp ứng nhu cầu - mà không cần ràng buộc về cảm xúc hay xã hội có thể khẳng định chủ nghĩa cá nhân có tồn tại, dù sống trong một hệ thống có tính tương tác.
+                        </p>
             `,
-            date: '2025-07-06',
+            date: '2025-06-08',
             author: 'THD von Alexander'
         },
+
         {
             id: '4',
-            title: 'Cuộc sống đại học với các bộn làn',
-            excerpt: 'Đoàn kết, đoàn kết, đại đoàn kết. Thành công, thành công, đại thành công.',
-            content: `
-                <h2>Cuộc sống đại học với các bộn làn</h2>
-                <p>Sắp tạch CNXHKH rồi :))</p>
-                <p>Đm cuộc đời :v</p>
-            `,
-            date: '2025-07-06',
+            title: 'Tuyển tập Caption xàm lồn',
+            excerpt: 'Các kiểu thể loại caption xàm lồn của THD von Alexander da Poet',
+            sections: [
+                {
+                    heading: 'Caption 1',
+                    content: `
+                        <blockquote>
+                        Em là người bán cá vô tâm <br>
+                        Để lại cho anh toàn khúc mắc
+                        </blockquote>
+                    `
+                },
+                {
+                    heading: 'Caption 2',
+                    content: `
+                        <blockquote>
+                        Nàng 36.5 độ thân nhiệt, sao nói ra lời lạnh như băng
+                        
+                        </blockquote>
+                    `
+                },
+                {
+                    heading: 'Caption 3',
+                    content: `
+                        <blockquote>
+                        Hoa trong thiên hạ nhiều vô kể <br>
+                        Nhưng sao sánh được mùi hương liền kề
+                        </blockquote>
+                    `
+                }
+            ],
+            date: '2025-06-08',
             author: 'THD von Alexander'
         }
     ];
