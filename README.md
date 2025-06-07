@@ -1,7 +1,7 @@
 # Personal Blog Project - THD von Alexander
 
 ## Introduction
-This is the source code for the personal blog website of **THD von Alexander**. The website is designed to share blog posts, stories, personal experiences, as well as contact and about information.
+This is the source code for my personal blog – called **THD von Alexander**. The website is designed to share stories, experiences, university life,... and whatever I want.
 
 ## Project Structure
 ```plaintext
@@ -16,14 +16,14 @@ von-blog/
 ├── contact.html       : Contact page  
 │
 ├── styles/
-│   └── main.css        : Main stylesheet  
+│   └── main.css       : Main stylesheet  
 │
 ├── scripts/
-│   ├── main.js         : Shared JS (navigation, scroll, featured content, etc.)  
-│   ├── blog.js         : Blog and story data management  
-│   └── contact.js      : Contact form logic  
+│   ├── main.js        : Shared JS (navigation, scroll, featured content, etc.)  
+│   ├── blog.js        : Blog and story data management  
+│   └── contact.js     : Contact form logic  
 │
-└── README.txt          : Project description and usage
+└── README.txt         : Project description and usage
 ```
 ## Main Features
 - Responsive design for both desktop and mobile.
