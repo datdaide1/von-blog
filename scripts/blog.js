@@ -36,6 +36,23 @@
             category: 'tutorial',
             date: '2025-06-07',
             author: 'THD von Alexander'
+        },
+        {
+            id: '3',
+            title: 'Khóa luận tốt nghiệp - Ý tưởng',
+            excerpt: 'Ý tưởng co KLTN nếu được làm :))))',
+            content: `
+                <h2>Girlfriend simulator chatbot - a great alternative to dating apps.</h2>
+                <p>Một chatbot giả lập bạn gái dành cho các chàng trai cô đơn cần được an ủi và lắng nghe.</p>
+                <ul>
+                    <li>Hỗ trợ tâm lý</li>
+                    <li>Luôn lắng nghe</li>
+                    <li>Không phán xét</li>
+                </ul>
+            `,
+            category: 'tutorial',
+            date: '2025-06-07',
+            author: 'THD von Alexander'
         }
     ];
     
