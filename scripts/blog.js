@@ -10,6 +10,10 @@
             excerpt: 'A first test for blog',
             content: `
                 <p>Here is my first of fucking blog</p>
+                <p>hí hí</p>
+                <p>Test image</p>
+                <img src="https://picsum.photos/seed/picsum/800/400" alt="Test Image" />
+                <p>bên trên là một bước ảnh cl gì đấy :))</p>
             `,
             category: 'lifestyle',
             date: '2025-06-07',
@@ -22,6 +26,12 @@
             content: `
                 <h2>Fucking test 2</h2>
                 <p>Here is fucking content for test 2</p>
+                <p>test list</p>
+                <ul>
+                    <li>Ai đẹp trai nhất nào?</li>
+                    <li>Anh Trần Hoàng Đạt chứ còn ai nữa</li>
+                    <li>ĐM cuộc đời</li>
+                </ul>
             `,
             category: 'tutorial',
             date: '2025-06-07',
@@ -37,7 +47,40 @@
             excerpt: 'Chapter 1: The Beginning, Leaving a Comfortable Borrowed Life Behind, I Sought Freedom in a Three-Step Room',
             content: `
                 <h2>Chapter 1: The Beginning, Leaving a Comfortable Borrowed Life Behind, I Sought Freedom in a Three-Step Room</h2>
-                <p>First of all, I start in a big city, bla bla haven't thought of the content yet :))</p>
+                <p>Tôi, người đến từ HP city, đã phải lang thang khắp các con phố quận Thanh Xuân để tìm một chốn dung thân. Thế nhưng, thật đáng buồn nhưng tôi đéo tìm được chỗ nào trú thân trong khi ngày nhập học đã đến gần.</p>
+            `,
+            date: '2025-07-06',
+            author: 'THD von Alexander'
+        },
+        {
+            id: '2',
+            title: 'Chapter 2',
+            excerpt: 'Chapter 2: Ở với em Dương, Ý ơi đừng bỏ anh :)))',
+            content: `
+                <h2>Chapter 2: Ở với em Dương, Ý ơi đừng bỏ anh :)))</h2>
+                <p>Để thế đã, chưa nghĩ ra gì để viết</p>
+            `,
+            date: '2025-07-06',
+            author: 'THD von Alexander'
+        },
+        {
+            id: '3',
+            title: 'Chapter 3',
+            excerpt: 'Chapter 3: Tưởng cuộc sống đã thay đổi nhưng tôi lại vướng phải một chướng ngại. Vẫn không tìm được lối thoát',
+            content: `
+                <h2>Chapter 3: Tưởng cuộc sống đã thay đổi nhưng tôi lại vướng phải một chướng ngại. Vẫn không tìm được lối thoát</h2>
+                <p>Đm Thái lọ :))))</p>
+            `,
+            date: '2025-07-06',
+            author: 'THD von Alexander'
+        },
+        {
+            id: '4',
+            title: 'Cuộc sống đại học với các bộn làn',
+            excerpt: 'Đoàn kết, đoàn kết, đại đoàn kết. Thành công, thành công, đại thành công.',
+            content: `
+                <h2>Cuộc sống đại học với các bộn làn</h2>
+                <p>Đoàn kết là sức mạnh, nhưng sắp tách CNXHKH rồi :))</p>
             `,
             date: '2025-07-06',
             author: 'THD von Alexander'
