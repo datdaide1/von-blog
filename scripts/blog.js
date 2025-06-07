@@ -80,7 +80,8 @@
             excerpt: 'Đoàn kết, đoàn kết, đại đoàn kết. Thành công, thành công, đại thành công.',
             content: `
                 <h2>Cuộc sống đại học với các bộn làn</h2>
-                <p>Đoàn kết là sức mạnh, nhưng sắp tách CNXHKH rồi :))</p>
+                <p>Sắp tạch CNXHKH rồi :))</p>
+                <p>Đm cuộc đời :v</p>
             `,
             date: '2025-07-06',
             author: 'THD von Alexander'
