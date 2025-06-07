@@ -71,8 +71,15 @@
                     </div>
                 </header>
 
-                <div class="post__content prose" id="postContent">
-                    <!-- Post content will be loaded here -->
+                <div class="post-layout">
+                    <!-- Đặt trong .post-layout hoặc .story-layout -->
+                    <button class="toc-toggle" id="tocToggle" aria-label="Toggle Table of Contents">
+                        <span class="toc-toggle-icon"><span></span></span>
+                    </button>
+                    <nav id="toc" class="toc"></nav>
+                    <div class="post__content prose" id="postContent">
+                        <!-- Post content will be loaded here -->
+                    </div>
                 </div>
 
                 <footer class="post__footer">
@@ -139,5 +146,14 @@
     <script src="scripts/theme.js"></script>
     <script src="scripts/blog.js"></script>
     <script src="scripts/main.js"></script>
+
+
+        <!-- Nút về đầu trang -->
+    <button id="scrollToTopBtn" class="scroll-to-top" aria-label="Scroll to top">
+    <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+        <polyline points="18 15 12 9 6 15"/>
+    </svg>
+    </button>
+
 </body>
 </html>

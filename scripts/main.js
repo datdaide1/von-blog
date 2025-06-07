@@ -246,3 +246,21 @@ window.addEventListener('error', function(event) {
 window.addEventListener('unhandledrejection', function(event) {
     console.error('Unhandled promise rejection:', event.reason);
 });
+
+
+document.addEventListener('DOMContentLoaded', function() {
+    const scrollBtn = document.getElementById('scrollToTopBtn');
+    if (!scrollBtn) return;
+
+    window.addEventListener('scroll', function() {
+        if (window.scrollY > 300) {
+            scrollBtn.classList.add('show');
+        } else {
+            scrollBtn.classList.remove('show');
+        }
+    });
+
+    scrollBtn.addEventListener('click', function() {
+        window.scrollTo({ top: 0, behavior: 'smooth' });
+    });
+});
