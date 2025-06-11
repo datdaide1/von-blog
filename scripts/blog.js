@@ -388,7 +388,7 @@
                 <p>
                     Mỗi nguyên liệu đều mang một bản sắc riêng, mỗi loại gia vị đều sở hữu tính chất riêng biệt. 
                     Và khi chúng gặp nhau trong những tổ hợp khác nhau, chúng tạo nên những trải nghiệm vị giác mới mẻ, bất ngờ. 
-                    Cùng với đó, vô số món ăn đã ra đời — mang trong mình dấu ấn của từng vùng miền, từng nền văn hóa, 
+                    Cùng với đó, vô số món ăn đã ra đời - mang trong mình dấu ấn của từng vùng miền, từng nền văn hóa, 
                     và đặc biệt là tiếng nói của người đầu bếp.
                 </p>
                 <p>
@@ -397,8 +397,8 @@
                 </p>
                 <p>
                     Những người đầu bếp ngày nay, trước khi cầm dao đứng trong gian bếp, cũng đã trải qua hành trình dài học hỏi: 
-                    từ sách vở, trường lớp, từ những bậc tiền bối,....hoặc là tự tìm tòi, nghiên cứu. Họ rèn luyện kỹ thuật, nắm vững công thức, làm chủ quy trình. 
-                    Thế nhưng, phần lớn những điều họ dùng để tạo nên món ăn hôm nay — từ nguyên liệu đến phương pháp — đều là kết tinh từ quá khứ. 
+                    từ sách vở, trường lớp, từ những bậc tiền bối,... hoặc là tự tìm tòi, nghiên cứu. Họ rèn luyện kỹ thuật, nắm vững công thức, làm chủ quy trình. 
+                    Thế nhưng, phần lớn những điều họ dùng để tạo nên món ăn hôm nay - từ nguyên liệu đến phương pháp - đều là kết tinh từ quá khứ. 
                     Những công thức được học, những kỹ thuật được truyền lại, đều mang hơi thở của những người đi trước.
                 </p>
                 <p>
@@ -408,7 +408,7 @@
                     Nhưng trong thâm tâm, tôi là người hiểu rõ nhất, những gì mình nấu, những kỹ thuật mình dùng, cũng chỉ là những bản sao vụng về của những điều mình luôn ao ước.
                 </P>
                 <p>
-                    Từ cách áp chảo kiểu poêlés, đến công thức nước sốt tận dụng umami từ hải sản — tất cả đều đã có quá nhiều người đi trước từng làm, từng tinh luyện, và đưa lên tầm nghệ thuật. 
+                    Từ cách áp chảo kiểu poêlés, đến công thức nước sốt tận dụng umami từ hải sản - tất cả đều đã có quá nhiều người đi trước từng làm, từng tinh luyện, và đưa lên tầm nghệ thuật. 
                     Tôi chỉ đang lần theo dấu vết của họ, cố gắng ghép lại từng mảnh tri thức mà mình nhặt nhạnh được, mong sao ra được điều gì đó đủ để gọi là "của mình", đủ để nói rằng đó là sở thích, là đam mê.
                 </P
                 <p>
@@ -434,7 +434,7 @@
         {
             id: '3',
             title: 'Cần hay không việc phụ thuộc vào xã hội để tồn tại?',
-            excerpt: 'Thi thoảng tôi xồn làm vl :)))',
+            excerpt: 'Một người có thể sống tốt, dù cho không có ai bên cạnh.',
             content: `
                 <h1>Cần hay không việc phụ thuộc vào xã hội để tồn tại?</h1>
                 <p>
