@@ -271,7 +271,7 @@
         {
             id: '4',
             title: 'Tartare de Saumon et Crevettes Poêlées',
-            excerpt: 'Một món khai vị nhẹ nhàng, thanh mát với cá hồi sống trộn sốt chanh thì là, đi cùng tôm sú áp chảo và sốt cà chua thủ công, mang đậm dấu ấn Địa Trung Hải.',
+            excerpt: 'Một món khai vị nhẹ nhàng, thanh mát với cá hồi sống trộn nước cốt chanh, thì là, đi cùng tôm sú áp chảo và sốt cà chua thủ công.',
             content: `
                 <h1>RÉCETTE</h1>
 
@@ -289,7 +289,7 @@
                     <li>Ail émincé - Tỏi băm nhỏ</li>
                     <li>Clous de girofle - Đinh hương</li>
                     <li>Feuilles de laurier - Lá nguyệt quế</li>
-                    <li>Vin blanc sec - Rượu vang trắng khô (hoặc rượu nấu ăn nhẹ)</li>
+                    <li>Vin blanc sec - Rượu vang trắng (hoặc rượu nấu ăn nhẹ)</li>
                     <li>Beurre doux - Bơ nhạt</li>
                     <li>Huile d'olive extra vierge - Dầu ô liu nguyên chất</li>
                 </ul>
@@ -313,23 +313,16 @@
                 <h2>Préparation - Cách chế biến</h2>
 
                 <h3>1. Préparation du saumon froid (Tartare de saumon léger)</h3>
-                <p>Cắt filet de saumon thành hạt lựu nhỏ. Trộn nhẹ tay cùng mayonnaise, jus de citron, zeste de citron, sel, poivre, ciboulette và aneth. Bọc kín và để lạnh ít nhất 30 phút trong ngăn mát.</p>
+                <p>Cắt Phi-lê cá hồi thành hạt lựu nhỏ. Trộn nhẹ tay cùng mayonnaise, nước cốt chanh vàng, vỏ chanh vàng bào, muối, tiêu, hành và thì là. Bọc kín và để lạnh ít nhất 30 phút trong ngăn mát.</p>
 
                 <h3>2. Préparation des crevettes poêlées</h3>
-                <p>Làm nóng chảo với một ít huile d'olive. Áp chảo crevettes đến khi chuyển màu hồng cam, mặt ngoài vàng nhẹ. Thêm một miếng nhỏ beurre doux, nghiêng chảo và rưới bơ nóng lên tôm. Rắc tiêu đen ngay khi tắt bếp.</p>
+                <p>Làm nóng chảo với một ít dầu ô liu. Áp chảo tôm đến khi chuyển màu hồng cam, mặt ngoài vàng nhẹ. Thêm một miếng nhỏ bơ, nghiêng chảo và rưới bơ nóng lên tôm. Rắc tiêu đen ngay khi tắt bếp.</p>
 
                 <h3>3. Sauce tomate artisanale (Sốt cà chua thủ công)</h3>
-                <p>Dùng đầu và vỏ tôm phi thơm với ail, beurre, sel và feuilles de laurier. Cho tomates vào đảo đều, sau đó thêm vin blanc, nấu thêm 10 phút. Xay nhuyễn và lọc lấy phần sốt mịn.</p>
+                <p>Dùng đầu và vỏ tôm phi thơm với tỏi, bơ, muối và lá quế. Cho cà chua vào đảo đều, sau đó thêm rượu vang, đun thêm 10 phút. Xay nhuyễn và lọc lấy phần sốt mịn.</p>
 
                 <h3>4. Dressage - Trình bày</h3>
-                <p>Đặt tartare de saumon vào khuôn tròn. Xếp crevettes poêlées bên cạnh, rưới sốt cà chua lên nhẹ. Trang trí với aneth, vỏ chanh bào và vài giọt huile d'olive. Dùng kèm pain grillé hoặc rau mầm.</p>
-
-                <h2>Quelques conseils du chef - Một vài lời khuyên từ đầu bếp</h2>
-                <ul>
-                    <li>Chọn tôm thật tươi để giữ vị ngọt.</li>
-                    <li>Sốt cà chua có thể thêm một chút đường nâu nếu quá chua.</li>
-                    <li>Không nên nấu sốt quá lâu để giữ vị tươi của hải sản.</li>
-                </ul>
+                <p>Đặt tartare cá hồi vào khuôn tròn. Xếp tôm áp chảo bên cạnh, rưới sốt cà chua lên. Trang trí với thì là, vỏ chanh bào và vài giọt dầu ô liu. Dùng kèm bánh mì nướng.</p>
 
                 <img src="images/food1.jpg" alt="Tartare de Saumon et Crevettes Poêlées" style="max-width:100%;border-radius:12px;margin-bottom:1.5em;">
                 <p style="text-align:center; font-style:italic; color:#555; margin-top:-1em; margin-bottom:2em;">
@@ -339,14 +332,14 @@
                 <h2>Cảm nhận</h2>
                 <p>
                     Món ăn là một bản giao hưởng tinh tế giữa kỹ thuật ẩm thực Pháp và tâm hồn của người nấu. 
-                    Ngay từ khi đọc danh sách nguyên liệu, tôi đã cảm nhận được sự tỉ mỉ trong việc lựa chọn và phối hợp mùi vị - một sự kết hợp có chủ đích, 
-                    đầy ý nhị và mang chiều sâu của người am hiểu hương vị, không chỉ đơn thuần là nấu ăn.
+                    Ngay từ khi đọc danh sách nguyên liệu, tôi đã cảm nhận được sự tỉ mỉ trong việc lựa chọn và phối hợp mùi vị - một sự kết hợp có chủ đích
+                    và mang chiều sâu của người am hiểu hương vị.
                 </p>
                 <p>
-                    Tartare de saumon - phần khai vị nguội, được chế biến từ phi-lê cá hồi tươi, mang đến cảm giác trong trẻo như buổi sớm ngoài biển. 
-                    Cá hồi được cắt hạt lựu, trộn với mayonnaise nhà làm, nước cốt và vỏ chanh vàng, điểm xuyết bằng thì là tươi và ciboulette - hành hoa. 
-                    Từng nguyên liệu ấy khi hòa quyện đã tạo nên một tổng thể tươi sáng, béo nhẹ, thanh chua và đầy sống động. Điều khiến tôi đặc biệt ấn tượng là sự xuất hiện của thì là - loại thảo mộc thường thấy trong các món ăn Việt Nam, 
-                    nhưng ở đây lại được đưa vào một món tartare theo phong cách Pháp, vừa bất ngờ, vừa tinh tế, mở ra một góc nhìn rất Á Đông nhưng không hề lệch tông.
+                    Tartare de saumon - phần khai vị nguội, được chế biến từ phi-lê cá hồi tươi, mang đến cảm giác trong trẻo như buổi sớm ngoài biển.  
+                    Từng nguyên liệu khi hòa quyện đã tạo nên một tổng thể tươi sáng, béo nhẹ, thanh chua và đầy sống động. Vị chua của đăng và đắng nhẹ của vỏ chanh đã làm cho món ăn không bị ngấy khi kết hợp với độ béo của cá hồi. 
+                    Một điều đặc biệt ấn tượng là sự xuất hiện của thì là - loại thảo mộc thường thấy trong các món ăn Việt Nam, 
+                    nhưng ở đây lại được đưa vào một món tartare theo phong cách Pháp, vừa bất ngờ, vừa tinh tế, mở ra một góc nhìn rất Á Đông nhưng rất hợp lý.
                 </p>
                 <p>
                     Phần tôm áp chảo - crevettes poêlées - được xử lý với độ chính xác cao. Tôm chỉ chín tới, lớp vỏ se vàng nhẹ, phần thịt bên trong căng mọng, giữ trọn vị ngọt tự nhiên. 
@@ -354,15 +347,14 @@
                     Việc rắc tiêu ngay khi tắt bếp càng làm nổi bật mùi tinh dầu thơm cay đầy gợi cảm. Đây không còn đơn thuần là món tôm nữa, mà là một lát cắt của nghệ thuật nấu ăn.
                 </p>
                 <p>
-                    Và rồi, như linh hồn của cả bản thể, phần sốt cà chua thủ công hiện lên như một bản nền nhung đỏ đầy quyến rũ. 
+                    Như linh hồn của cả bản thể, phần sốt cà chua thủ công hiện lên như một bản nền nhung đỏ đầy quyến rũ. 
                     Việc sử dụng đầu và vỏ tôm để nấu sốt theo lối bisque - một kỹ thuật cổ điển trong ẩm thực Pháp - cho thấy sự am hiểu sâu sắc về cách chiết xuất umami từ nguyên liệu. 
                     Cà chua chín được ninh kỹ cùng bơ, tỏi, lá nguyệt quế và đinh hương tạo nên hương thơm nồng nàn mà không át vị chính. Việc thêm rượu vang trắng để khử mùi và làm dịu độ chua, 
-                    đồng thời xay nhuyễn rồi lọc kỹ để chỉ giữ lại phần nước sốt mịn, cho thấy sự kiên nhẫn và tình yêu thực sự dành cho món ăn. Phần sốt này không chỉ để "rưới lên", nó là cầu nối - kết nối giữa vị tươi lạnh của tartare và độ ngậy ấm của tôm nóng.
+                    đồng thời xay nhuyễn rồi lọc kỹ để chỉ giữ lại phần nước sốt mịn, như một sự kết hợp hoàn hảo cho món hải sản nấu cùng bơ. Phần sốt này không chỉ để "rưới lên", nó là cầu nối - kết nối giữa vị tươi lạnh của tartare và độ ngậy ấm của tôm nóng.
                 </p>
                 <p>
                     Cách trình bày món ăn cũng là một điểm sáng không thể bỏ qua. Từng chi tiết - từ việc tạo hình tartare bằng khuôn tròn nhỏ, đến cách xếp tôm cạnh bên và rưới nhẹ sốt cà chua - đều mang tinh thần của bistronomie: 
-                    sang trọng mà không kiểu cách, tự nhiên mà vẫn gợi cảm. Nhánh thì là, vài giọt dầu ô liu nguyên chất, vỏ chanh vàng bào mỏng… đều không chỉ là trang trí, mà là những nét chấm phá mang chiều sâu hương vị. Tất cả được phục vụ cùng bánh mì nướng giòn hoặc salad rau mầm - 
-                    như một lời mời nhẹ nhàng để làm sạch vị giác giữa những cung bậc cảm xúc khác nhau.
+                    sang trọng mà không kiểu cách, tự nhiên mà vẫn gợi cảm. Nhánh thì là, vài giọt dầu ô liu, vỏ chanh vàng bào mỏng… đều không chỉ là trang trí, mà là những nét chấm phá mang chiều sâu hương vị, như một lời mời nhẹ nhàng đưa vị giác đến những cung bậc cảm xúc khác nhau.
                 </p>
                 <p>
                     Món ăn được xây dựng không chỉ bằng công thức, mà bằng cả sự đồng điệu giữa bàn tay và trái tim. 
@@ -384,14 +376,47 @@
     const STORIES = [
         {
             id: '1',
-            title: 'Journey of a Lodger',
-            excerpt: 'Chapter 1: The Beginning. Leaving behind a really nice borrowed place to chase freedom in a room just three steps wide',
+            title: 'Cooking Story',
+            excerpt: 'Liệu có tồn tại cái gọi là "món ăn độc bản"?',
             content: `
-                <h1>Chapter 1: The Beginning - Leaving behind a really nice borrowed place to chase freedom in a room just three steps wide</h1>
-                <p>Tôi, người đến từ HP city, đã phải lang thang khắp các con phố quận Thanh Xuân để tìm một chốn dung thân. Thế nhưng, thật đáng buồn vì tôi đéo tìm được chỗ nào trú thân trong khi ngày nhập học đang đến gần.</p>
-                <p>Tạm thời thế đã :))) chưa nghĩ ra :)))) </p>
+                <h1>"Độc bản" liệu có tồn tại?</h1>
+                <p>
+                    Thế giới ẩm thực như một khoảng không gian vô tận, nơi mà mỗi đầu bếp đều là một kẻ lữ hành, 
+                    không ngừng lang thang, khám phá và sáng tạo, với khát vọng tìm ra chân trời mới cho hương vị
+                    Trong suốt chiều dài lịch sử, cùng với nhu cầu ăn ngon của con người ngày càng tăng, số lượng cách kết hợp nguyên liệu và gia vị cũng theo đó mà bùng nổ.
+                </p>
+                <p>
+                    Mỗi nguyên liệu đều mang một bản sắc riêng, mỗi loại gia vị đều sở hữu tính chất riêng biệt. 
+                    Và khi chúng gặp nhau trong những tổ hợp khác nhau, chúng tạo nên những trải nghiệm vị giác mới mẻ, bất ngờ. 
+                    Cùng với đó, vô số món ăn đã ra đời — mang trong mình dấu ấn của từng vùng miền, từng nền văn hóa, 
+                    và đặc biệt là tiếng nói của người đầu bếp.
+                </p>
+                <p>
+                    Vậy thì, khi trên thế giới đã tồn tại hàng trăm nền ẩm thực lớn, hàng ngàn món ăn kinh điển được truyền lại qua bao thế hệ, 
+                    liệu còn ai vẫn mang trong mình khao khát: tạo ra một món ăn chưa từng tồn tại trên thế giới?
+                </p>
+                <p>
+                    Những người đầu bếp ngày nay, trước khi cầm dao đứng trong gian bếp, cũng đã trải qua hành trình dài học hỏi: 
+                    từ sách vở, trường lớp, từ những bậc tiền bối,....hoặc là tự tìm tòi, nghiên cứu. Họ rèn luyện kỹ thuật, nắm vững công thức, làm chủ quy trình. 
+                    Thế nhưng, phần lớn những điều họ dùng để tạo nên món ăn hôm nay — từ nguyên liệu đến phương pháp — đều là kết tinh từ quá khứ. 
+                    Những công thức được học, những kỹ thuật được truyền lại, đều mang hơi thở của những người đi trước.
+                </p>
+                <p>
+                    Tôi viết những điều này, không phải để nói rằng họ thiếu tham vọng, hay phê phán họ chỉ biết học lại những gì đã có. 
+                    Ngược lại, tôi luôn cảm thấy ngưỡng mộ những người dám bước vào khoảng không vô tận ấy, dám đối mặt với thực tại của cuộc sống để được cầm dao đứng trước chảo.
+                    Mặc dù luôn tự hào rằng bản thân nấu ăn cũng có vẻ ngon đấy, luôn tự lừa mình rằng bản thân có thể tạo ra những món ăn độc lạ bằng những cách kết hợp độc đáo.
+                    Nhưng trong thâm tâm, tôi là người hiểu rõ nhất, những gì mình nấu, những kỹ thuật mình dùng, cũng chỉ là những bản sao vụng về của những điều mình luôn ao ước.
+                </P>
+                <p>
+                    Từ cách áp chảo kiểu poêlés, đến công thức nước sốt tận dụng umami từ hải sản — tất cả đều đã có quá nhiều người đi trước từng làm, từng tinh luyện, và đưa lên tầm nghệ thuật. 
+                    Tôi chỉ đang lần theo dấu vết của họ, cố gắng ghép lại từng mảnh tri thức mà mình nhặt nhạnh được, mong sao ra được điều gì đó đủ để gọi là "của mình", đủ để nói rằng đó là sở thích, là đam mê.
+                </P
+                <p>
+                    Cũng chính vì vậy, một người chẳng là ai cả như tôi, lại luôn khao khát tạo ra thứ gì đó chưa từng tồn tại để thế giới này, một thứ thể hiện "cái tôi", bản chất và khao khát trong tôi.
+                    Những thứ đó, không phải để giành lấy một vị trí trên bản đồ ẩm thực thế giới, mà chỉ để một lần, tôi tạo ra thứ gì đó để có khẳng định với mọi người nấu nướng thực sự là đam mê của mình.
+                </p>
             `,
-            date: '2025-06-07',
+            date: '2025-06-011',
             author: 'THD von Alexander'
         },
         {
@@ -400,7 +425,7 @@
             excerpt: 'Đoàn kết, đoàn kết, đại đoàn kết! Thành công, thành công, đại thành công!',
             content: `
                 <h1>Cuộc sống đại học với các bộn làn</h1>
-                <p>Tạch CNXHKH rồi :))</p>
+                <p>Thất nghiệp rồi :))</p>
                 <p>Đm cuộc đời :v</p>
             `,
             date: '2025-06-07',
