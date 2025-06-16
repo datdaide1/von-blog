@@ -266,106 +266,106 @@
             category: 'tutorial',
             date: '2025-06-07',
             author: 'THD von Alexander'
-        },
+        // },
 
-        {
-            id: '4',
-            title: 'Tartare de Saumon et Crevettes Poêlées',
-            excerpt: 'Một món khai vị nhẹ nhàng, thanh mát với cá hồi sống trộn nước cốt chanh, thì là, đi cùng tôm sú áp chảo và sốt cà chua thủ công.',
-            content: `
-                <h1>RÉCETTE</h1>
+        // {
+        //     id: '4',
+        //     title: 'Tartare de Saumon et Crevettes Poêlées',
+        //     excerpt: 'Một món khai vị nhẹ nhàng, thanh mát với cá hồi sống trộn nước cốt chanh, thì là, đi cùng tôm sú áp chảo và sốt cà chua thủ công.',
+        //     content: `
+        //         <h1>RÉCETTE</h1>
 
-                <h2>Les Ingrédients - Nguyên liệu</h2>
+        //         <h2>Les Ingrédients - Nguyên liệu</h2>
 
-                <h3>Protéines - Chất đạm</h3>
-                <ul>
-                    <li>Crevettes tigres décortiquées - Tôm sú (đã bóc vỏ, bỏ đầu)</li>
-                    <li>Filet de saumon frais - Phi-lê cá hồi tươi</li>
-                </ul>
+        //         <h3>Protéines - Chất đạm</h3>
+        //         <ul>
+        //             <li>Crevettes tigres décortiquées - Tôm sú (đã bóc vỏ, bỏ đầu)</li>
+        //             <li>Filet de saumon frais - Phi-lê cá hồi tươi</li>
+        //         </ul>
 
-                <h3>Éléments de la sauce - Thành phần cho sốt</h3>
-                <ul>
-                    <li>Tomates bien mûres - Cà chua chín</li>
-                    <li>Ail émincé - Tỏi băm nhỏ</li>
-                    <li>Clous de girofle - Đinh hương</li>
-                    <li>Feuilles de laurier - Lá nguyệt quế</li>
-                    <li>Vin blanc sec - Rượu vang trắng (hoặc rượu nấu ăn nhẹ)</li>
-                    <li>Beurre doux - Bơ nhạt</li>
-                    <li>Huile d'olive extra vierge - Dầu ô liu nguyên chất</li>
-                </ul>
+        //         <h3>Éléments de la sauce - Thành phần cho sốt</h3>
+        //         <ul>
+        //             <li>Tomates bien mûres - Cà chua chín</li>
+        //             <li>Ail émincé - Tỏi băm nhỏ</li>
+        //             <li>Clous de girofle - Đinh hương</li>
+        //             <li>Feuilles de laurier - Lá nguyệt quế</li>
+        //             <li>Vin blanc sec - Rượu vang trắng (hoặc rượu nấu ăn nhẹ)</li>
+        //             <li>Beurre doux - Bơ nhạt</li>
+        //             <li>Huile d'olive extra vierge - Dầu ô liu nguyên chất</li>
+        //         </ul>
 
-                <h3>Assaisonnement - Gia vị</h3>
-                <ul>
-                    <li>Sel de mer fin - Muối biển mịn</li>
-                    <li>Poivre noir du moulin - Tiêu đen xay thô</li>
-                    <li>Jus de citron jaune - Nước cốt chanh vàng</li>
-                    <li>Zeste de citron - Vỏ chanh vàng bào</li>
-                    <li>Aneth frais - Thì là tươi</li>
-                    <li>Ciboulette - Hành hoa (hẹ tây)</li>
-                    <li>Mayonnaise - Sốt mayonnaise</li>
-                </ul>
+        //         <h3>Assaisonnement - Gia vị</h3>
+        //         <ul>
+        //             <li>Sel de mer fin - Muối biển mịn</li>
+        //             <li>Poivre noir du moulin - Tiêu đen xay thô</li>
+        //             <li>Jus de citron jaune - Nước cốt chanh vàng</li>
+        //             <li>Zeste de citron - Vỏ chanh vàng bào</li>
+        //             <li>Aneth frais - Thì là tươi</li>
+        //             <li>Ciboulette - Hành hoa (hẹ tây)</li>
+        //             <li>Mayonnaise - Sốt mayonnaise</li>
+        //         </ul>
 
-                <h3>Garniture suggérée - Gợi ý ăn kèm</h3>
-                <ul>
-                    <li>Pain grillé croustillant - Bánh mì nướng giòn</li>
-                </ul>
+        //         <h3>Garniture suggérée - Gợi ý ăn kèm</h3>
+        //         <ul>
+        //             <li>Pain grillé croustillant - Bánh mì nướng giòn</li>
+        //         </ul>
 
-                <h2>Préparation - Cách chế biến</h2>
+        //         <h2>Préparation - Cách chế biến</h2>
 
-                <h3>1. Préparation du saumon froid (Tartare de saumon léger)</h3>
-                <p>Cắt Phi-lê cá hồi thành hạt lựu nhỏ. Trộn nhẹ tay cùng mayonnaise, nước cốt chanh vàng, vỏ chanh vàng bào, muối, tiêu, hành và thì là. Bọc kín và để lạnh ít nhất 30 phút trong ngăn mát.</p>
+        //         <h3>1. Préparation du saumon froid (Tartare de saumon léger)</h3>
+        //         <p>Cắt Phi-lê cá hồi thành hạt lựu nhỏ. Trộn nhẹ tay cùng mayonnaise, nước cốt chanh vàng, vỏ chanh vàng bào, muối, tiêu, hành và thì là. Bọc kín và để lạnh ít nhất 30 phút trong ngăn mát.</p>
 
-                <h3>2. Préparation des crevettes poêlées</h3>
-                <p>Làm nóng chảo với một ít dầu ô liu. Áp chảo tôm đến khi chuyển màu hồng cam, mặt ngoài vàng nhẹ. Thêm một miếng nhỏ bơ, nghiêng chảo và rưới bơ nóng lên tôm. Rắc tiêu đen ngay khi tắt bếp.</p>
+        //         <h3>2. Préparation des crevettes poêlées</h3>
+        //         <p>Làm nóng chảo với một ít dầu ô liu. Áp chảo tôm đến khi chuyển màu hồng cam, mặt ngoài vàng nhẹ. Thêm một miếng nhỏ bơ, nghiêng chảo và rưới bơ nóng lên tôm. Rắc tiêu đen ngay khi tắt bếp.</p>
 
-                <h3>3. Sauce tomate artisanale (Sốt cà chua thủ công)</h3>
-                <p>Dùng đầu và vỏ tôm phi thơm với tỏi, bơ, muối và lá quế. Cho cà chua vào đảo đều, sau đó thêm rượu vang, đun thêm 10 phút. Xay nhuyễn và lọc lấy phần sốt mịn.</p>
+        //         <h3>3. Sauce tomate artisanale (Sốt cà chua thủ công)</h3>
+        //         <p>Dùng đầu và vỏ tôm phi thơm với tỏi, bơ, muối và lá quế. Cho cà chua vào đảo đều, sau đó thêm rượu vang, đun thêm 10 phút. Xay nhuyễn và lọc lấy phần sốt mịn.</p>
 
-                <h3>4. Dressage - Trình bày</h3>
-                <p>Đặt tartare cá hồi vào khuôn tròn. Xếp tôm áp chảo bên cạnh, rưới sốt cà chua lên. Trang trí với thì là, vỏ chanh bào và vài giọt dầu ô liu. Dùng kèm bánh mì nướng.</p>
+        //         <h3>4. Dressage - Trình bày</h3>
+        //         <p>Đặt tartare cá hồi vào khuôn tròn. Xếp tôm áp chảo bên cạnh, rưới sốt cà chua lên. Trang trí với thì là, vỏ chanh bào và vài giọt dầu ô liu. Dùng kèm bánh mì nướng.</p>
 
-                <img src="images/food1.jpg" alt="Tartare de Saumon et Crevettes Poêlées" style="max-width:100%;border-radius:12px;margin-bottom:1.5em;">
-                <p style="text-align:center; font-style:italic; color:#555; margin-top:-1em; margin-bottom:2em;">
-                    Hình ảnh chỉ mang tính chất minh họa :)))))))
-                </p>
+        //         <img src="images/food1.jpg" alt="Tartare de Saumon et Crevettes Poêlées" style="max-width:100%;border-radius:12px;margin-bottom:1.5em;">
+        //         <p style="text-align:center; font-style:italic; color:#555; margin-top:-1em; margin-bottom:2em;">
+        //             Hình ảnh chỉ mang tính chất minh họa :)))))))
+        //         </p>
 
-                <h2>Cảm nhận</h2>
-                <p>
-                    Món ăn là một bản giao hưởng tinh tế giữa kỹ thuật ẩm thực Pháp và tâm hồn của người nấu. 
-                    Ngay từ khi đọc danh sách nguyên liệu, tôi đã cảm nhận được sự tỉ mỉ trong việc lựa chọn và phối hợp mùi vị - một sự kết hợp có chủ đích
-                    và mang chiều sâu của người am hiểu hương vị.
-                </p>
-                <p>
-                    Tartare de saumon - phần khai vị nguội, được chế biến từ phi-lê cá hồi tươi, mang đến cảm giác trong trẻo như buổi sớm ngoài biển.  
-                    Từng nguyên liệu khi hòa quyện đã tạo nên một tổng thể tươi sáng, béo nhẹ, thanh chua và đầy sống động. Vị chua của đăng và đắng nhẹ của vỏ chanh đã làm cho món ăn không bị ngấy khi kết hợp với độ béo của cá hồi. 
-                    Một điều đặc biệt ấn tượng là sự xuất hiện của thì là - loại thảo mộc thường thấy trong các món ăn Việt Nam, 
-                    nhưng ở đây lại được đưa vào một món tartare theo phong cách Pháp, vừa bất ngờ, vừa tinh tế, mở ra một góc nhìn rất Á Đông nhưng rất hợp lý.
-                </p>
-                <p>
-                    Phần tôm áp chảo - crevettes poêlées - được xử lý với độ chính xác cao. Tôm chỉ chín tới, lớp vỏ se vàng nhẹ, phần thịt bên trong căng mọng, giữ trọn vị ngọt tự nhiên. 
-                    Đặc biệt, kỹ thuật rưới bơ nóng (arroser) sau khi áp chảo là chi tiết thể hiện tay nghề của đầu bếp: vừa để tăng hương thơm, vừa tạo độ bóng hấp dẫn cho tôm. 
-                    Việc rắc tiêu ngay khi tắt bếp càng làm nổi bật mùi tinh dầu thơm cay đầy gợi cảm. Đây không còn đơn thuần là món tôm nữa, mà là một lát cắt của nghệ thuật nấu ăn.
-                </p>
-                <p>
-                    Như linh hồn của cả bản thể, phần sốt cà chua thủ công hiện lên như một bản nền nhung đỏ đầy quyến rũ. 
-                    Việc sử dụng đầu và vỏ tôm để nấu sốt theo lối bisque - một kỹ thuật cổ điển trong ẩm thực Pháp - cho thấy sự am hiểu sâu sắc về cách chiết xuất umami từ nguyên liệu. 
-                    Cà chua chín được ninh kỹ cùng bơ, tỏi, lá nguyệt quế và đinh hương tạo nên hương thơm nồng nàn mà không át vị chính. Việc thêm rượu vang trắng để khử mùi và làm dịu độ chua, 
-                    đồng thời xay nhuyễn rồi lọc kỹ để chỉ giữ lại phần nước sốt mịn, như một sự kết hợp hoàn hảo cho món hải sản nấu cùng bơ. Phần sốt này không chỉ để "rưới lên", nó là cầu nối - kết nối giữa vị tươi lạnh của tartare và độ ngậy ấm của tôm nóng.
-                </p>
-                <p>
-                    Cách trình bày món ăn cũng là một điểm sáng không thể bỏ qua. Từng chi tiết - từ việc tạo hình tartare bằng khuôn tròn nhỏ, đến cách xếp tôm cạnh bên và rưới nhẹ sốt cà chua - đều mang tinh thần của bistronomie: 
-                    sang trọng mà không kiểu cách, tự nhiên mà vẫn gợi cảm. Nhánh thì là, vài giọt dầu ô liu, vỏ chanh vàng bào mỏng… đều không chỉ là trang trí, mà là những nét chấm phá mang chiều sâu hương vị, như một lời mời nhẹ nhàng đưa vị giác đến những cung bậc cảm xúc khác nhau.
-                </p>
-                <p>
-                    Món ăn được xây dựng không chỉ bằng công thức, mà bằng cả sự đồng điệu giữa bàn tay và trái tim. 
-                    Đó là sự kết hợp giữa kỹ thuật và cảm xúc, giữa cái đẹp thị giác và cái đẹp vị giác. 
-                    Một món ăn giàu lớp lang, nhiều tầng vị, không phô trương nhưng rất có chiều sâu.
-                </p>
+        //         <h2>Cảm nhận</h2>
+        //         <p>
+        //             Món ăn là một bản giao hưởng tinh tế giữa kỹ thuật ẩm thực Pháp và tâm hồn của người nấu. 
+        //             Ngay từ khi đọc danh sách nguyên liệu, tôi đã cảm nhận được sự tỉ mỉ trong việc lựa chọn và phối hợp mùi vị - một sự kết hợp có chủ đích
+        //             và mang chiều sâu của người am hiểu hương vị.
+        //         </p>
+        //         <p>
+        //             Tartare de saumon - phần khai vị nguội, được chế biến từ phi-lê cá hồi tươi, mang đến cảm giác trong trẻo như buổi sớm ngoài biển.  
+        //             Từng nguyên liệu khi hòa quyện đã tạo nên một tổng thể tươi sáng, béo nhẹ, thanh chua và đầy sống động. Vị chua của đăng và đắng nhẹ của vỏ chanh đã làm cho món ăn không bị ngấy khi kết hợp với độ béo của cá hồi. 
+        //             Một điều đặc biệt ấn tượng là sự xuất hiện của thì là - loại thảo mộc thường thấy trong các món ăn Việt Nam, 
+        //             nhưng ở đây lại được đưa vào một món tartare theo phong cách Pháp, vừa bất ngờ, vừa tinh tế, mở ra một góc nhìn rất Á Đông nhưng rất hợp lý.
+        //         </p>
+        //         <p>
+        //             Phần tôm áp chảo - crevettes poêlées - được xử lý với độ chính xác cao. Tôm chỉ chín tới, lớp vỏ se vàng nhẹ, phần thịt bên trong căng mọng, giữ trọn vị ngọt tự nhiên. 
+        //             Đặc biệt, kỹ thuật rưới bơ nóng (arroser) sau khi áp chảo là chi tiết thể hiện tay nghề của đầu bếp: vừa để tăng hương thơm, vừa tạo độ bóng hấp dẫn cho tôm. 
+        //             Việc rắc tiêu ngay khi tắt bếp càng làm nổi bật mùi tinh dầu thơm cay đầy gợi cảm. Đây không còn đơn thuần là món tôm nữa, mà là một lát cắt của nghệ thuật nấu ăn.
+        //         </p>
+        //         <p>
+        //             Như linh hồn của cả bản thể, phần sốt cà chua thủ công hiện lên như một bản nền nhung đỏ đầy quyến rũ. 
+        //             Việc sử dụng đầu và vỏ tôm để nấu sốt theo lối bisque - một kỹ thuật cổ điển trong ẩm thực Pháp - cho thấy sự am hiểu sâu sắc về cách chiết xuất umami từ nguyên liệu. 
+        //             Cà chua chín được ninh kỹ cùng bơ, tỏi, lá nguyệt quế và đinh hương tạo nên hương thơm nồng nàn mà không át vị chính. Việc thêm rượu vang trắng để khử mùi và làm dịu độ chua, 
+        //             đồng thời xay nhuyễn rồi lọc kỹ để chỉ giữ lại phần nước sốt mịn, như một sự kết hợp hoàn hảo cho món hải sản nấu cùng bơ. Phần sốt này không chỉ để "rưới lên", nó là cầu nối - kết nối giữa vị tươi lạnh của tartare và độ ngậy ấm của tôm nóng.
+        //         </p>
+        //         <p>
+        //             Cách trình bày món ăn cũng là một điểm sáng không thể bỏ qua. Từng chi tiết - từ việc tạo hình tartare bằng khuôn tròn nhỏ, đến cách xếp tôm cạnh bên và rưới nhẹ sốt cà chua - đều mang tinh thần của bistronomie: 
+        //             sang trọng mà không kiểu cách, tự nhiên mà vẫn gợi cảm. Nhánh thì là, vài giọt dầu ô liu, vỏ chanh vàng bào mỏng… đều không chỉ là trang trí, mà là những nét chấm phá mang chiều sâu hương vị, như một lời mời nhẹ nhàng đưa vị giác đến những cung bậc cảm xúc khác nhau.
+        //         </p>
+        //         <p>
+        //             Món ăn được xây dựng không chỉ bằng công thức, mà bằng cả sự đồng điệu giữa bàn tay và trái tim. 
+        //             Đó là sự kết hợp giữa kỹ thuật và cảm xúc, giữa cái đẹp thị giác và cái đẹp vị giác. 
+        //             Một món ăn giàu lớp lang, nhiều tầng vị, không phô trương nhưng rất có chiều sâu.
+        //         </p>
 
-            `,
-            category: 'cooking',
-            date: '2025-06-09',
-            author: 'THD von Alexander'
+        //     `,
+        //     category: 'cooking',
+        //     date: '2025-06-09',
+        //     author: 'THD von Alexander'
         }
 
 
@@ -374,123 +374,123 @@
     
     // HERE IS MY STORIES
     const STORIES = [
-        {
-            id: '1',
-            title: 'Cooking Story',
-            excerpt: 'Liệu có tồn tại cái gọi là "món ăn độc bản"?',
-            content: `
-                <h1>"Độc bản" liệu có tồn tại?</h1>
-                <p>
-                    Thế giới ẩm thực như một khoảng không gian vô tận, nơi mà mỗi đầu bếp đều là một kẻ lữ hành, 
-                    không ngừng lang thang, khám phá và sáng tạo, với khát vọng tìm ra chân trời mới cho hương vị
-                    Trong suốt chiều dài lịch sử, cùng với nhu cầu ăn ngon của con người ngày càng tăng, số lượng cách kết hợp nguyên liệu và gia vị cũng theo đó mà bùng nổ.
-                </p>
-                <p>
-                    Mỗi nguyên liệu đều mang một bản sắc riêng, mỗi loại gia vị đều sở hữu tính chất riêng biệt. 
-                    Và khi chúng gặp nhau trong những tổ hợp khác nhau, chúng tạo nên những trải nghiệm vị giác mới mẻ, bất ngờ. 
-                    Cùng với đó, vô số món ăn đã ra đời - mang trong mình dấu ấn của từng vùng miền, từng nền văn hóa, 
-                    và đặc biệt là tiếng nói của người đầu bếp.
-                </p>
-                <p>
-                    Vậy thì, khi trên thế giới đã tồn tại hàng trăm nền ẩm thực lớn, hàng ngàn món ăn kinh điển được truyền lại qua bao thế hệ, 
-                    liệu còn ai vẫn mang trong mình khao khát: tạo ra một món ăn chưa từng tồn tại trên thế giới?
-                </p>
-                <p>
-                    Những người đầu bếp ngày nay, trước khi cầm dao đứng trong gian bếp, cũng đã trải qua hành trình dài học hỏi: 
-                    từ sách vở, trường lớp, từ những bậc tiền bối,... hoặc là tự tìm tòi, nghiên cứu. Họ rèn luyện kỹ thuật, nắm vững công thức, làm chủ quy trình. 
-                    Thế nhưng, phần lớn những điều họ dùng để tạo nên món ăn hôm nay - từ nguyên liệu đến phương pháp - đều là kết tinh từ quá khứ. 
-                    Những công thức được học, những kỹ thuật được truyền lại, đều mang hơi thở của những người đi trước.
-                </p>
-                <p>
-                    Tôi viết những điều này, không phải để nói rằng họ thiếu tham vọng, hay phê phán họ chỉ biết học lại những gì đã có. 
-                    Ngược lại, tôi luôn cảm thấy ngưỡng mộ những người dám bước vào khoảng không vô tận ấy, dám đối mặt với thực tại của cuộc sống để được cầm dao đứng trước chảo.
-                    Mặc dù luôn tự hào rằng bản thân nấu ăn cũng có vẻ ngon đấy, luôn tự lừa mình rằng bản thân có thể tạo ra những món ăn độc lạ bằng những cách kết hợp độc đáo.
-                    Nhưng trong thâm tâm, tôi là người hiểu rõ nhất, những gì mình nấu, những kỹ thuật mình dùng, cũng chỉ là những bản sao vụng về của những điều mình luôn ao ước.
-                </P>
-                <p>
-                    Từ cách áp chảo kiểu poêlés, đến công thức nước sốt tận dụng umami từ hải sản - tất cả đều đã có quá nhiều người đi trước từng làm, từng tinh luyện, và đưa lên tầm nghệ thuật. 
-                    Tôi chỉ đang lần theo dấu vết của họ, cố gắng ghép lại từng mảnh tri thức mà mình nhặt nhạnh được, mong sao ra được điều gì đó đủ để gọi là "của mình", đủ để nói rằng đó là sở thích, là đam mê.
-                </P
-                <p>
-                    Cũng chính vì vậy, một người chẳng là ai cả như tôi, lại luôn khao khát tạo ra thứ gì đó chưa từng tồn tại để thế giới này, một thứ thể hiện "cái tôi", bản chất và khao khát trong tôi.
-                    Những thứ đó, không phải để giành lấy một vị trí trên bản đồ ẩm thực thế giới, mà chỉ để một lần, tôi tạo ra thứ gì đó để có khẳng định với mọi người nấu nướng thực sự là đam mê của mình.
-                </p>
-            `,
-            date: '2025-06-011',
-            author: 'THD von Alexander'
-        },
-        {
-            id: '2',
-            title: 'Cuộc sống đại học với các bộn làn',
-            excerpt: 'Đoàn kết, đoàn kết, đại đoàn kết! Thành công, thành công, đại thành công!',
-            content: `
-                <h1>Cuộc sống đại học với các bộn làn</h1>
-                <p>Thất nghiệp rồi :))</p>
-                <p>Đm cuộc đời :v</p>
-            `,
-            date: '2025-06-07',
-            author: 'THD von Alexander'
-        },
-        {
-            id: '3',
-            title: 'Cần hay không việc phụ thuộc vào xã hội để tồn tại?',
-            excerpt: 'Một người có thể sống tốt, dù cho không có ai bên cạnh.',
-            content: `
-                <h1>Cần hay không việc phụ thuộc vào xã hội để tồn tại?</h1>
-                <p>
-                            Động vật, về cơ bản là sống bầy đàn. Đơn giản nhất, cần ít nhất 2 cá thể để duy trì nòi giống. Hoặc tùy thuộc vào độ khó bắt của con mồi mà cần săn theo nhóm. Đương nhiên, cũng có một số loài chỉ đi tìm bạn tình khi đến mùa, 
-                            hay đủ mạnh để săn một mình, hoặc đơn giản là nó ăn cỏ. Vậy có một câu hỏi là: “nếu loài động vật trên không giao phối thì các con hoàn toàn sống tách biệt với nhau trong bầy à?”. Câu trả lời là “đéo”, bản năng động vật buộc chúng phải tìm thấy nhau, 
-                            mục đích là duy trì nòi giống. Nếu không làm vậy thì chúng không thể tồn tại đến bây giờ để con người mổ xẻ ra nghiên cứu được rồi. Nên nói tóm lại, việc chúng liên kết với nhau nằm ở “bản năng tồn tại”.
-                        </p>
-                        <p>
-                            Xét sang con người thì, đúng là ngay cả khi tiền tệ chưa ra đời, cuộc sống vẫn chỉ  đang ở mức làm gì ăn nấy thì con người đã nghĩ ra việc trao đổi đồ cho nhau. Trao đi cái mình thừa hay làm ra và đổi lấy cái mình cần. Khi tiền tệ ra đời thì nó trở thành vật trung gian. 
-                            Nên về cơ bản, cho dù có một mối liên kết giữa người với người thì nó cũng chỉ là mối quan hệ trao đổi hàng hóa, một mối quan hệ win-win. 
-                        </p>
-                        <p>
-                            Nên về cơ bản thì, những mối quan hệ ở mức độ ”trao đổi hàng hóa” và chưa vượt khỏi cái “ngưỡng” đấy mục đích là để con người tối ưu cuộc sống của mình, 
-                            bằng cách đáp ứng những nhu cầu cần thiết. Tóm lại, việc tiếp xúc xã hội ở mức vừa đủ để đáp ứng nhu cầu - mà không cần ràng buộc về cảm xúc hay xã hội có thể khẳng định chủ nghĩa cá nhân có tồn tại, dù sống trong một hệ thống có tính tương tác.
-                        </p>
-            `,
-            date: '2025-06-08',
-            author: 'THD von Alexander'
-        },
+        // {
+        //     id: '1',
+        //     title: 'Cooking Story',
+        //     excerpt: 'Liệu có tồn tại cái gọi là "món ăn độc bản"?',
+        //     content: `
+        //         <h1>"Độc bản" liệu có tồn tại?</h1>
+        //         <p>
+        //             Thế giới ẩm thực như một khoảng không gian vô tận, nơi mà mỗi đầu bếp đều là một kẻ lữ hành, 
+        //             không ngừng lang thang, khám phá và sáng tạo, với khát vọng tìm ra chân trời mới cho hương vị
+        //             Trong suốt chiều dài lịch sử, cùng với nhu cầu ăn ngon của con người ngày càng tăng, số lượng cách kết hợp nguyên liệu và gia vị cũng theo đó mà bùng nổ.
+        //         </p>
+        //         <p>
+        //             Mỗi nguyên liệu đều mang một bản sắc riêng, mỗi loại gia vị đều sở hữu tính chất riêng biệt. 
+        //             Và khi chúng gặp nhau trong những tổ hợp khác nhau, chúng tạo nên những trải nghiệm vị giác mới mẻ, bất ngờ. 
+        //             Cùng với đó, vô số món ăn đã ra đời - mang trong mình dấu ấn của từng vùng miền, từng nền văn hóa, 
+        //             và đặc biệt là tiếng nói của người đầu bếp.
+        //         </p>
+        //         <p>
+        //             Vậy thì, khi trên thế giới đã tồn tại hàng trăm nền ẩm thực lớn, hàng ngàn món ăn kinh điển được truyền lại qua bao thế hệ, 
+        //             liệu còn ai vẫn mang trong mình khao khát: tạo ra một món ăn chưa từng tồn tại trên thế giới?
+        //         </p>
+        //         <p>
+        //             Những người đầu bếp ngày nay, trước khi cầm dao đứng trong gian bếp, cũng đã trải qua hành trình dài học hỏi: 
+        //             từ sách vở, trường lớp, từ những bậc tiền bối,... hoặc là tự tìm tòi, nghiên cứu. Họ rèn luyện kỹ thuật, nắm vững công thức, làm chủ quy trình. 
+        //             Thế nhưng, phần lớn những điều họ dùng để tạo nên món ăn hôm nay - từ nguyên liệu đến phương pháp - đều là kết tinh từ quá khứ. 
+        //             Những công thức được học, những kỹ thuật được truyền lại, đều mang hơi thở của những người đi trước.
+        //         </p>
+        //         <p>
+        //             Tôi viết những điều này, không phải để nói rằng họ thiếu tham vọng, hay phê phán họ chỉ biết học lại những gì đã có. 
+        //             Ngược lại, tôi luôn cảm thấy ngưỡng mộ những người dám bước vào khoảng không vô tận ấy, dám đối mặt với thực tại của cuộc sống để được cầm dao đứng trước chảo.
+        //             Mặc dù luôn tự hào rằng bản thân nấu ăn cũng có vẻ ngon đấy, luôn tự lừa mình rằng bản thân có thể tạo ra những món ăn độc lạ bằng những cách kết hợp độc đáo.
+        //             Nhưng trong thâm tâm, tôi là người hiểu rõ nhất, những gì mình nấu, những kỹ thuật mình dùng, cũng chỉ là những bản sao vụng về của những điều mình luôn ao ước.
+        //         </P>
+        //         <p>
+        //             Từ cách áp chảo kiểu poêlés, đến công thức nước sốt tận dụng umami từ hải sản - tất cả đều đã có quá nhiều người đi trước từng làm, từng tinh luyện, và đưa lên tầm nghệ thuật. 
+        //             Tôi chỉ đang lần theo dấu vết của họ, cố gắng ghép lại từng mảnh tri thức mà mình nhặt nhạnh được, mong sao ra được điều gì đó đủ để gọi là "của mình", đủ để nói rằng đó là sở thích, là đam mê.
+        //         </P
+        //         <p>
+        //             Cũng chính vì vậy, một người chẳng là ai cả như tôi, lại luôn khao khát tạo ra thứ gì đó chưa từng tồn tại để thế giới này, một thứ thể hiện "cái tôi", bản chất và khao khát trong tôi.
+        //             Những thứ đó, không phải để giành lấy một vị trí trên bản đồ ẩm thực thế giới, mà chỉ để một lần, tôi tạo ra thứ gì đó để có khẳng định với mọi người nấu nướng thực sự là đam mê của mình.
+        //         </p>
+        //     `,
+        //     date: '2025-06-011',
+        //     author: 'THD von Alexander'
+        // },
+        // {
+        //     id: '2',
+        //     title: 'Cuộc sống đại học với các bộn làn',
+        //     excerpt: 'Đoàn kết, đoàn kết, đại đoàn kết! Thành công, thành công, đại thành công!',
+        //     content: `
+        //         <h1>Cuộc sống đại học với các bộn làn</h1>
+        //         <p>Thất nghiệp rồi :))</p>
+        //         <p>Đm cuộc đời :v</p>
+        //     `,
+        //     date: '2025-06-07',
+        //     author: 'THD von Alexander'
+        // },
+        // {
+        //     id: '3',
+        //     title: 'Cần hay không việc phụ thuộc vào xã hội để tồn tại?',
+        //     excerpt: 'Một người có thể sống tốt, dù cho không có ai bên cạnh.',
+        //     content: `
+        //         <h1>Cần hay không việc phụ thuộc vào xã hội để tồn tại?</h1>
+        //         <p>
+        //                     Động vật, về cơ bản là sống bầy đàn. Đơn giản nhất, cần ít nhất 2 cá thể để duy trì nòi giống. Hoặc tùy thuộc vào độ khó bắt của con mồi mà cần săn theo nhóm. Đương nhiên, cũng có một số loài chỉ đi tìm bạn tình khi đến mùa, 
+        //                     hay đủ mạnh để săn một mình, hoặc đơn giản là nó ăn cỏ. Vậy có một câu hỏi là: “nếu loài động vật trên không giao phối thì các con hoàn toàn sống tách biệt với nhau trong bầy à?”. Câu trả lời là “đéo”, bản năng động vật buộc chúng phải tìm thấy nhau, 
+        //                     mục đích là duy trì nòi giống. Nếu không làm vậy thì chúng không thể tồn tại đến bây giờ để con người mổ xẻ ra nghiên cứu được rồi. Nên nói tóm lại, việc chúng liên kết với nhau nằm ở “bản năng tồn tại”.
+        //                 </p>
+        //                 <p>
+        //                     Xét sang con người thì, đúng là ngay cả khi tiền tệ chưa ra đời, cuộc sống vẫn chỉ  đang ở mức làm gì ăn nấy thì con người đã nghĩ ra việc trao đổi đồ cho nhau. Trao đi cái mình thừa hay làm ra và đổi lấy cái mình cần. Khi tiền tệ ra đời thì nó trở thành vật trung gian. 
+        //                     Nên về cơ bản, cho dù có một mối liên kết giữa người với người thì nó cũng chỉ là mối quan hệ trao đổi hàng hóa, một mối quan hệ win-win. 
+        //                 </p>
+        //                 <p>
+        //                     Nên về cơ bản thì, những mối quan hệ ở mức độ ”trao đổi hàng hóa” và chưa vượt khỏi cái “ngưỡng” đấy mục đích là để con người tối ưu cuộc sống của mình, 
+        //                     bằng cách đáp ứng những nhu cầu cần thiết. Tóm lại, việc tiếp xúc xã hội ở mức vừa đủ để đáp ứng nhu cầu - mà không cần ràng buộc về cảm xúc hay xã hội có thể khẳng định chủ nghĩa cá nhân có tồn tại, dù sống trong một hệ thống có tính tương tác.
+        //                 </p>
+        //     `,
+        //     date: '2025-06-08',
+        //     author: 'THD von Alexander'
+        // },
 
-        {
-            id: '4',
-            title: 'Tuyển tập Caption xàm lồn',
-            excerpt: 'Các kiểu thể loại caption xàm lồn của THD von Alexander da Poet',
-            sections: [
-                {
-                    heading: 'Caption 1',
-                    content: `
-                        <blockquote>
-                        Em là người bán cá vô tâm <br>
-                        Để lại cho anh toàn khúc mắc
-                        </blockquote>
-                    `
-                },
-                {
-                    heading: 'Caption 2',
-                    content: `
-                        <blockquote>
-                        Nàng 36.5 độ thân nhiệt, sao nói ra lời lạnh như băng
+        // {
+        //     id: '4',
+        //     title: 'Tuyển tập Caption xàm lồn',
+        //     excerpt: 'Các kiểu thể loại caption xàm lồn của THD von Alexander da Poet',
+        //     sections: [
+        //         {
+        //             heading: 'Caption 1',
+        //             content: `
+        //                 <blockquote>
+        //                 Em là người bán cá vô tâm <br>
+        //                 Để lại cho anh toàn khúc mắc
+        //                 </blockquote>
+        //             `
+        //         },
+        //         {
+        //             heading: 'Caption 2',
+        //             content: `
+        //                 <blockquote>
+        //                 Nàng 36.5 độ thân nhiệt, sao nói ra lời lạnh như băng
                         
-                        </blockquote>
-                    `
-                },
-                {
-                    heading: 'Caption 3',
-                    content: `
-                        <blockquote>
-                        Hoa trong thiên hạ nhiều vô kể <br>
-                        Nhưng sao sánh được mùi hương liền kề
-                        </blockquote>
-                    `
-                }
-            ],
-            date: '2025-06-08',
-            author: 'THD von Alexander'
-        }
+        //                 </blockquote>
+        //             `
+        //         },
+        //         {
+        //             heading: 'Caption 3',
+        //             content: `
+        //                 <blockquote>
+        //                 Hoa trong thiên hạ nhiều vô kể <br>
+        //                 Nhưng sao sánh được mùi hương liền kề
+        //                 </blockquote>
+        //             `
+        //         }
+        //     ],
+        //     date: '2025-06-08',
+        //     author: 'THD von Alexander'
+        // }
     ];
 
     [BLOG_POSTS, STORIES].forEach(list => {
